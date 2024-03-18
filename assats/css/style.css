@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading h1{
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+}
